@@ -19,4 +19,4 @@ var uk_league =
 "   17. Sunderland      38    10  10  18    29  -  51    40\n" +
 "   18. Ipswich         38     9   9  20    41  -  64    36\n" +
 "   19. Derby           38     8   6  24    33  -  63    30\n" +
-"   20. Leicester       38     5  13  20    30  -  64    28\n"
+"   20. Leicester       38     5  13  20    30  -  64    28"
